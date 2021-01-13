@@ -358,7 +358,7 @@ pre {
 /* Mobile */
 @media (max-width: 500px) {
   .navbar {
-    height: 110px;
+    height: 100px;
   }
 
   .navbar .flex {

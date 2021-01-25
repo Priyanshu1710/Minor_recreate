@@ -409,7 +409,7 @@ pre {
   margin-bottom: 36px;
 }
 .top-components .grid{
-  grid-template-columns: 1fr 1fr 1fr;
+/*   grid-template-columns: 1fr 1fr 1fr; */
   padding: 10px 0px;
 
 }
